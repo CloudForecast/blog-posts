@@ -1,1 +1,1 @@
-Visit https://cloudforecast.io/blog/
+CloudForecast Blog: https://cloudforecast.io/blog/
