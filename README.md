@@ -1,2 +1,1 @@
-# blog-posts
-All the information used in the CloudForecast Blog
+Visit https://cloudforecast.io/blog/
