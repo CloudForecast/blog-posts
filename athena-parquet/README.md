@@ -68,8 +68,7 @@
     LOCATION 's3://INSERT_BUCKET_NAME/raw'
     TBLPROPERTIES (
       'skip.header.line.count'='1',
-      'serialization.null.format'='',
-      'compressionType'='gzip'
+      'serialization.null.format'=''
     );
 
 ### Parquet Files using Snappy
